@@ -1,0 +1,14 @@
+body {
+  background-color: aqua;
+  color: antiquewhite;
+  text-align: center;
+}
+
+label {
+  font-size: 20px;
+
+}
+
+canvas {
+  margin-top: 150px;
+}
